@@ -1,0 +1,20 @@
+{
+  "name": "katana-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp completo com 100+ comandos, IA, economia, XP, antis, jogos e gerência de grupo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^9.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.7.7",
+    "node-fetch": "^2.7.0",
+    "fs-extra": "^11.2.0",
+    "moment-timezone": "^0.5.45",
+    "chalk": "^4.1.2"
+  }
+}
