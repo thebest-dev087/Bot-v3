@@ -1,0 +1,56 @@
+{
+  "120363426515251950@g.us": {
+    "gid": "120363426515251950@g.us",
+    "welcome": true,
+    "goodbye": true,
+    "antilink": false,
+    "antifoto": false,
+    "antivideo": false,
+    "antisticker": false,
+    "antistatus": false,
+    "antipv": false,
+    "antifake": false,
+    "antipalavrao": false,
+    "antispam": false,
+    "antibanadm": true,
+    "palavroes": [
+      "puta",
+      "caralho",
+      "fdp",
+      "viado",
+      "cuzao",
+      "corno",
+      "arrombado"
+    ],
+    "welcomeMsg": "🌟 Bem-vindo @user ao grupo *@group*!\n\nLê as regras e diverte-te 🛡️",
+    "goodbyeMsg": "👋 @user saiu do grupo. Até breve!",
+    "spamCount": {}
+  },
+  "120363408625893758@g.us": {
+    "gid": "120363408625893758@g.us",
+    "welcome": true,
+    "goodbye": true,
+    "antilink": false,
+    "antifoto": false,
+    "antivideo": false,
+    "antisticker": false,
+    "antistatus": false,
+    "antipv": false,
+    "antifake": false,
+    "antipalavrao": false,
+    "antispam": false,
+    "antibanadm": true,
+    "palavroes": [
+      "puta",
+      "caralho",
+      "fdp",
+      "viado",
+      "cuzao",
+      "corno",
+      "arrombado"
+    ],
+    "welcomeMsg": "🌟 Bem-vindo @user ao grupo *@group*!\n\nLê as regras e diverte-te 🛡️",
+    "goodbyeMsg": "👋 @user saiu do grupo. Até breve!",
+    "spamCount": {}
+  }
+}
